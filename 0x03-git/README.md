@@ -1,4 +1,4 @@
-# 0x03-git
+# 0x03-git updated
  This directory contains the Git tasks for the ALX Zero Day project.
 
 ## Instructions for Task 1 Repo-session
